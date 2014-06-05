@@ -1,4 +1,4 @@
 async_queue
 ===========
 
-distribute async queue based on leveldb or redis
+distribute async queue based on leveldb && redis
